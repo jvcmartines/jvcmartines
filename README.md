@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">Studying to Become a Back-End Developer</h3>
 
-- 📫 Currently studying Computer Science at **Universidade Cidade de São Paulo**
+📫 Currently studying Computer Science at **Universidade Cidade de São Paulo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
